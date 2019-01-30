@@ -1,0 +1,54 @@
+.button, .button1, .button2 { font-family: 'Montserrat', sans-serif; font-size: 30px; }
+
+.partie_g, .partie_d { height: auto; float: left; width: 45%; }
+
+.logo1, .logo2, .logo3, .logo4, .logo5, .logo6 { width: 70%; height: auto; }
+
+menu { display: -webkit-box; display: -ms-flexbox; display: flex; list-style-type: none; position: -webkit-sticky; position: sticky; margin-top: 0px; background-color: #61616C; }
+
+.liste1 { display: inline; padding: 20px; background-color: #61616C; color: #ffffff; font-family: 'Roboto', sans-serif; }
+
+.liste1:hover { background-color: blue; border-radius: 5px; }
+
+ul a { text-decoration: none; }
+
+a:link { text-decoration: none; color: #ffffff; }
+
+.droite { float: right; }
+
+.image_restdb { width: 70px; height: auto; }
+
+.partie1 { background-color: #13AFCF; height: 150px; width: 300px; margin-top: -20px; padding-bottom: 30px; }
+
+.geek { position: absolute; left: 50px; top: 50px; }
+
+.container { margin: 0 25% 0; }
+
+.slogan { color: #ffffff; margin: 0 5% 0; padding-top: 20px; padding-bottom: 20px; font-family: "Montserrat", sans-serif; }
+
+.button { background-color: #FFA233; border-radius: 20px; padding: 10px; margin: 0 20% 0; padding-bottom: 20px; }
+
+.partie2 { font-family: "Montserrat", sans-serif; margin: 0 25% 0; }
+
+.partie3 { height: 300px; background-color: #13AFCF; font-family: "Montserrat", sans-serif; }
+
+.container2 { width: 90%; margin: 0 5% 0 5%; padding-left: 60px; }
+
+.partie4 { font-family: "Montserrat", sans-serif; margin: 0 15% 0; height: auto; }
+
+.partie5 { background-color: #BDBDBD; width: 100%; padding-top: 30px; padding-bottom: 30px; }
+
+.liste_logo { display: -webkit-box; display: -ms-flexbox; display: flex; margin: 0 15% 0; background-color: none; list-style-type: none; }
+
+.logo2 { padding-right: 80px; }
+
+.logo7 { width: 20%; height: auto; margin: 0 40% 0; }
+
+.partie6 { padding-top: 50px; padding-right: 80px; display: -ms-grid; display: grid; -ms-grid-columns: (300px)[3]; grid-template-columns: repeat(3, 300px); -ms-grid-rows: (70px)[3]; grid-template-rows: repeat(3, 70px); -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; }
+
+.button1 { background-color: #045FB4; border-radius: 20px; padding: 10px; margin: 0 20% 0; padding-bottom: 20px; width: 300px; }
+
+.button2 { background-color: #FFA233; border-radius: 20px; padding: 10px; margin: 0 20% 0; padding-bottom: 20px; width: 300px; }
+
+.liste1 { display: inline; padding: 20px; background-color: #61616C; color: #ffffff; font-family: 'Roboto', sans-serif; }
+/*# sourceMappingURL=turlutu.css.map */
